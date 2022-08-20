@@ -13,7 +13,7 @@ Estou estudando: HTML e CSS!
 
 </div>
 
-<div  text-align="center">
+<div>
   
   <img text-align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img text-align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
