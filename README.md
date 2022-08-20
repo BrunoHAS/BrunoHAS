@@ -1,8 +1,8 @@
 ## Ola! Sou o Bruno Henrique!<br>
 
 Atualmente sou: Front-End!<br>
-## Estou estudando: HTML e CSS!
-
+Estou estudando: HTML e CSS!
+<hr>
 <div align="center">
 
   <a href="https://github.com/BrunoHAS">
