@@ -2,7 +2,7 @@
 
 Atualmente sou: Front-End!<br>
 Estou estudando: HTML e CSS!
-<hr>
+##
 <div align="center">
 
   <a href="https://github.com/BrunoHAS">
