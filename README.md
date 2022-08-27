@@ -2,6 +2,7 @@
 
 Atualmente sou: Front-End!<br>
 Estou estudando: HTML e CSS!
+Programo em JavaScript
 ##
 <div align="center">
 
