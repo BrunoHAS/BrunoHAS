@@ -1,7 +1,7 @@
 ## Ola! Sou o Bruno Henrique!<br>
 
-Atualmente sou: Front-End!<br>
-Estou estudando: HTML e CSS!<br>
+Atualmente sou: FullStack!<br>
+Estou estudando: React e Sequelize + MySQL!<br>
 Programando em JavaScript
 ##
 <div align="center">
