@@ -4,14 +4,14 @@
 - ⭐ JavaScript
 
 ## 🌌 Frameworks
-### 🌌 Frontend
-- ⭐ React
+### ⭐ Frontend
+- React
 
-### Backend
-- ⭐ Express.js
+### ⭐ Backend
+- Express.js
 
-## 🌌 ORMs
-- ⭐ Sequelize
+### ⭐ ORMs
+- Sequelize
 
 <div align="center">
 
