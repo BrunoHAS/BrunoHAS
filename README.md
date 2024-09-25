@@ -1,9 +1,18 @@
-## Ola! Sou o Bruno Henrique!<br>
+# Ola! Sou o Bruno Henrique! 🚀<br>
 
-Atualmente sou: FullStack!<br>
-Estou estudando: React e Sequelize + MySQL!<br>
-Programando em JavaScript
-##
+## 🌌 Linguagem de Programação
+- ⭐ JavaScript
+
+## 🌌 Frameworks
+### 🌌 Frontend
+- ⭐ React
+
+### Backend
+- ⭐ Express.js
+
+## 🌌 ORMs
+- ⭐ Sequelize
+
 <div align="center">
 
   <a href="https://github.com/BrunoHAS">
