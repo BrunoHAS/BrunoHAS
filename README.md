@@ -1,6 +1,6 @@
 # Ola! Sou o Bruno Henrique! 🚀<br>
 
-## 🌌 Linguagem de Programação
+## 🌌 Linguagens de Programação
 - ⭐ JavaScript
 
 ## 🌌 Frameworks
@@ -12,6 +12,18 @@
 
 ### ⭐ ORMs
 - Sequelize
+
+## Bibliotecas
+- Axios
+- React Router
+
+## Ferramentas e Tecnologias
+- VSCode
+- Git Github
+- MySQL Workbench
+
+## 🌌 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seuperfil)
 
 <div align="center">
 
