@@ -23,8 +23,7 @@
 - MySQL Workbench
 
 ## 🌌 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/
-brunoheriquedev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/brunoheriquedev)
 
 )
 <div align="center">
